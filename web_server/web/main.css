@@ -1,0 +1,13 @@
+.title {
+    font-family:Arial, sans-serif;
+    font-size:46pt;
+    text-align: center;
+    font-weight:bolder;
+}
+
+
+.content {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 14pt;
+    text-align: left;
+}
